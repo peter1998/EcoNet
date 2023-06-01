@@ -35,3 +35,5 @@ We welcome contributions from anyone who is interested in machine learning and e
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### 👤 Peter Matov Full Stack Junior and Data Science Novice
